@@ -1,2 +1,2 @@
 # hello-world
-Just beginning to learn
+Not really starting to learn but getting more experience in coding for the future
